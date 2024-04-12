@@ -1,0 +1,18 @@
+User Manual
+Equipment to run this project:
+- Quest 2 Head Set
+- LeapMotion Hand Tracking
+
+A background story of the game to help you play:
+You are a detective and also a friend of the president of the School of Magic. This day, the president has invited you to the school because Professor Daniel has found a way to create Artificial Philosopher's Stone. You came, but unexpectedly the professor was dead. There are three suspects， Student Adam, Professor Bell, and the president of Academia M - which is another magic school. You have to find out who has done the murder, why and how have they done it.
+
+Controls:
+The controls in the game can be done through voice, the following commands will cast a "spell" and some actions will appear.
+- "wand" will let a wand appear(when you are done with it, say "wand" again to let it disappear), and you can hold it and point to items. Some items will be highlightable, which means this item can be cast a spell on!
+- "check" will let you cast an investigate magic on an item, it will only work on some items that can be highlighted.
+- "teleport to" will let you teleport to another room. The spell will only work if you stand on the magic circle. Here are the rooms that can be teleported to: Room A(Adam's room), Room B(Bell's room), Lab, Reception(When casting a spell, say "teleport to reception", "teleport to room A",etc.). There is also another secrete room that acts as a locker for the members of this school, each person has their unique number, and if you find their number you can also teleport to their secret room (for example if the secrete room number for Adam is 100, say teleport to one zero zero).
+- "show" will let you cast the appearance magic.
+- "identify" will let the answer panel show up for you to answer who has done this crime, you can touch the panel with your hand to answer. If you are unsure of your answer, you can always say "identify" again to let the panel disappear.
+
+Other:
+There is a radio on the desk in the lab room, you can control the background music by sliding the right handle.
